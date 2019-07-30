@@ -1,2 +1,2 @@
 # Machine-Learning-Data-Science
-A repository for all the stuff we create. Lets learn together
+A repository for all the stuff we create. Lets learn together and code
